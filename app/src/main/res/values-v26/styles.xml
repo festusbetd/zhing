@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="brand" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">?android:attr/colorError</item>
+        <item name="android:windowBackground">@color/colorBackground</item>
+        <item name="android:textColorPrimary">?android:attr/colorButtonNormal</item>
+        <item name="colorPrimaryDark">@android:color/holo_red_dark</item>
+        <item name="android:textColorPrimaryInverse">@android:color/darker_gray</item>
+    </style>
+</resources>

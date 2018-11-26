@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FF0000</color>
+    <color name="colorPrimaryDark">#FF0000</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="tab">#FFFFFF</color>
+
+    <color name="white">#fcfcfc</color>
+    <color name="backgroundcolor">#fcfcfc</color>
+    <color name="lightgray">#ededed</color>
+    <color name="deeppurple">#7c4dff</color>
+    <color name="yello">#ffb300</color>
+    <color name="green">#00bfa5</color>
+    <color name="darkblue">#23283a</color>
+    <color name="testcolorblue">#152b38</color>
+    <color name="pink">#fe104d</color>
+
+
+    <color name="bg_color">#e8edf3</color>
+
+    <color name="black_overlay">#66000000</color>
+    <color name="background_material_light_1">#d43232</color>
+    <color name="primary_dark_material_light">#149fe5</color>
+    <color name="colorBackground">#fc0707</color>
+    <color name="colorActivatedHighlight">#0b0c0c</color>
+    <color name="text_color_primary">#151414</color>
+    <color name="black">#0c1645</color>
+    <color name="foreground_material_light">#f9f2f2</color>
+    <color name="background_material_light">#f60707</color>
+    <color name="primary_text_material_dark">#0d0d0d</color>
+    <color name="text_color_secondary">#89121111</color>
+    <color name="colorButtonNormal">#090909</color>
+</resources>
